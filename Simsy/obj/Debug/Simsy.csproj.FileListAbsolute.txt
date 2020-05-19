@@ -1,0 +1,7 @@
+C:\Users\Zaicew\source\repos\Simsy\Simsy\obj\Debug\Simsy.csproj.CoreCompileInputs.cache
+C:\Users\Zaicew\source\repos\Simsy\Simsy\bin\Debug\Simsy.exe.config
+C:\Users\Zaicew\source\repos\Simsy\Simsy\bin\Debug\Simsy.exe
+C:\Users\Zaicew\source\repos\Simsy\Simsy\bin\Debug\Simsy.pdb
+C:\Users\Zaicew\source\repos\Simsy\Simsy\obj\Debug\Simsy.exe
+C:\Users\Zaicew\source\repos\Simsy\Simsy\obj\Debug\Simsy.pdb
+C:\Users\Zaicew\source\repos\Simsy\Simsy\obj\Debug\Simsy.csprojAssemblyReference.cache
